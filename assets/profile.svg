@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1100" viewBox="0 0 900 1100">
+  <rect width="900" height="1100" fill="#0b0b0b"/>
+  <circle cx="450" cy="350" r="210" fill="#f5f5f5"/>
+  <rect x="220" y="540" width="460" height="420" rx="220" fill="#f5f5f5"/>
+  <circle cx="380" cy="320" r="32" fill="#0b0b0b"/>
+  <circle cx="520" cy="320" r="32" fill="#0b0b0b"/>
+  <rect x="360" y="410" width="180" height="22" rx="11" fill="#0b0b0b"/>
+  <rect x="180" y="880" width="540" height="140" rx="70" fill="#0b0b0b"/>
+  <text x="450" y="960" text-anchor="middle" font-family="'Space Grotesk', Arial, sans-serif" font-size="36" fill="#f5f5f5">TASHI DOLKAR</text>
+</svg>
